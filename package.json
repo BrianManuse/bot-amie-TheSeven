@@ -1,0 +1,17 @@
+{
+  "name": "amie-the-seven",
+  "version": "1.0.0",
+  "description": "robot The Seven",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Manuse",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "medoapi": "^1.0.5",
+    "ms": "^2.1.3"
+  }
+}
